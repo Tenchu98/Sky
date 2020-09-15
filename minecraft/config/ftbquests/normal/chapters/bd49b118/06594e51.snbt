@@ -1,0 +1,13 @@
+{
+	title: "Draconic Boots",
+	icon: "draconicevolution:draconic_boots",
+	x: 6.5d,
+	y: 0.5d,
+	text: [
+		"Draconic Boots"
+	],
+	tasks: [{
+		uid: "340954c9",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Automate Wither killing",
+	icon: "mob_grinding_utils:wither_muffler",
+	x: 6.5d,
+	y: 2.0d,
+	text: [
+		"Automate Wither killing"
+	],
+	tasks: [{
+		uid: "83f101d7",
+		type: "checkmark"
+	}]
+}

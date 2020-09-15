@@ -1,0 +1,16 @@
+{
+	title: "Fill a Quantum Tank with milk",
+	x: 2.0d,
+	y: 0.5d,
+	description: "Fill a Quantum Tank with milk",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "2793d05e",
+		type: "item",
+		items: [{
+			item: "quantumstorage:quantum_tank"
+		}]
+	}]
+}

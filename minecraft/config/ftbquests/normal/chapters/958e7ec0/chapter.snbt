@@ -1,0 +1,10 @@
+{
+	title: "Stone Age",
+	icon: "minecraft:skull 1 4",
+	description: [
+		"Now that you have a good source of blocks, it's time to expand, upgrade, and improve your island a bit!"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

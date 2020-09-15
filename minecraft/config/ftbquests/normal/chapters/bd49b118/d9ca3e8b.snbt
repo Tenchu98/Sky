@@ -1,0 +1,13 @@
+{
+	title: "Kill 4 chaos dragons",
+	icon: "draconicevolution:chaos_shard",
+	x: 9.5d,
+	y: 2.0d,
+	text: [
+		"Kill 4 chaos dragons"
+	],
+	tasks: [{
+		uid: "9a835c6a",
+		type: "checkmark"
+	}]
+}

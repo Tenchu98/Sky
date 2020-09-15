@@ -1,0 +1,13 @@
+{
+	title: "Automate crop harvesting",
+	icon: "mysticalagriculture:tier1_inferium_crop",
+	x: 6.25d,
+	y: 0.5d,
+	text: [
+		"Automate crop harvesting"
+	],
+	tasks: [{
+		uid: "a9992f99",
+		type: "checkmark"
+	}]
+}

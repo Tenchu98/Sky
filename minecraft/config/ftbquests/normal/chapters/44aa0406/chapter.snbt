@@ -1,0 +1,15 @@
+{
+	title: "Age of Exploration",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "extrautils2:chickenring"
+	},
+	description: [
+		"With the right tools you no longer have to be confined to your small island. Time to get out and stretch our legs! Try not to die..."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

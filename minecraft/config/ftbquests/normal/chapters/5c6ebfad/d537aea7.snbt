@@ -1,0 +1,13 @@
+{
+	title: "Create a Passively cooled reactor from the Extreme Reactors Mod",
+	icon: "bigreactors:reactorcontroller",
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"Create a Passively cooled reactor from the Extreme Reactors Mod"
+	],
+	tasks: [{
+		uid: "f6efc4e6",
+		type: "checkmark"
+	}]
+}

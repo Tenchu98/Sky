@@ -1,0 +1,13 @@
+{
+	title: "Craft an Iron Seed",
+	icon: "mysticalagriculture:iron_seeds",
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"Craft an Iron Seed"
+	],
+	tasks: [{
+		uid: "a2ff673f",
+		type: "checkmark"
+	}]
+}

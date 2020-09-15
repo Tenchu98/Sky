@@ -1,0 +1,13 @@
+{
+	title: "Start a food farm and an Inferium Essence Farm",
+	icon: "harvestcraft:steakandchipsitem",
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"Start a food farm and an Inferium Essence Farm"
+	],
+	tasks: [{
+		uid: "83b81bb6",
+		type: "checkmark"
+	}]
+}

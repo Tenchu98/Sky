@@ -1,0 +1,13 @@
+{
+	title: "Upgrade your mob farm to kill monsters automatically",
+	icon: "extrautils2:spike_stone",
+	x: 5.0d,
+	y: 2.0d,
+	text: [
+		"Upgrade your mob farm to kill monsters automatically"
+	],
+	tasks: [{
+		uid: "bd0d3238",
+		type: "checkmark"
+	}]
+}

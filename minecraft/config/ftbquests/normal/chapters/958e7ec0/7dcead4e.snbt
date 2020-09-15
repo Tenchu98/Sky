@@ -1,0 +1,13 @@
+{
+	title: "Automate your Cobble with Cobblestone Generator Block or Transfer Node",
+	icon: "tp:cobblegen_block",
+	x: 3.5d,
+	y: 2.0d,
+	text: [
+		"Automate your Cobble with Cobblestone Generator Block or Transfer Node"
+	],
+	tasks: [{
+		uid: "08ac6cd0",
+		type: "checkmark"
+	}]
+}

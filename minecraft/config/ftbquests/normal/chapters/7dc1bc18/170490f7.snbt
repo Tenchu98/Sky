@@ -1,0 +1,13 @@
+{
+	title: "Make Dirt by composting saplings or leaves in an Oak Barrel",
+	icon: "minecraft:dirt",
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Make Dirt by composting saplings or leaves in an Oak Barrel"
+	],
+	tasks: [{
+		uid: "ff63cb80",
+		type: "checkmark"
+	}]
+}

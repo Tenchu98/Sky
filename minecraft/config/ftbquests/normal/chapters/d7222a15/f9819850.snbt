@@ -1,0 +1,18 @@
+{
+	title: "Use a Soulium Dagger to obtain a Mob Chunk",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "mysticalagriculture:soulium_dagger"
+	},
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Use a Soulium Dagger to obtain a Mob Chunk"
+	],
+	tasks: [{
+		uid: "ce238abb",
+		type: "checkmark"
+	}]
+}

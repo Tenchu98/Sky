@@ -1,0 +1,13 @@
+{
+	title: "Craft a Diamond Seed",
+	icon: "mysticalagriculture:diamond_seeds",
+	x: 2.0d,
+	y: 0.5d,
+	text: [
+		"Craft a Diamond Seed"
+	],
+	tasks: [{
+		uid: "5a587cd4",
+		type: "checkmark"
+	}]
+}

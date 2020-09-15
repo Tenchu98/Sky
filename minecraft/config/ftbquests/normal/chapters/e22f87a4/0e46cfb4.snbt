@@ -1,0 +1,13 @@
+{
+	title: "Harness the power of Lightning with a Lightning Rod",
+	icon: "environmentaltech:lightning_rod",
+	x: 2.0d,
+	y: 0.5d,
+	text: [
+		"Harness the power of Lightning with a Lightning Rod"
+	],
+	tasks: [{
+		uid: "2eb3d254",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Create a portal to Alfheim",
+	icon: "botania:alfheimportal",
+	x: 3.5d,
+	y: 2.0d,
+	text: [
+		"Create a portal to Alfheim"
+	],
+	tasks: [{
+		uid: "db019a73",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Automate turning Cobblestone into Gravel with a SAG Mill or Auto Hammer",
+	icon: "enderio:block_sag_mill",
+	x: 2.0d,
+	y: 0.5d,
+	text: [
+		"Automate turning Cobblestone into Gravel with a SAG Mill or Auto Hammer"
+	],
+	tasks: [{
+		uid: "f3f03d65",
+		type: "checkmark"
+	}]
+}

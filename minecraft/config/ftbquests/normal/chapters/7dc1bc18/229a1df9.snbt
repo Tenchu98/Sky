@@ -1,0 +1,18 @@
+{
+	title: "Make Tinkers' Construct Tools from Bone or Flint",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "tconstruct:pickaxe"
+	},
+	x: 3.5d,
+	y: 2.0d,
+	text: [
+		"Make Tinkers' Construct Tools from Bone or Flint"
+	],
+	tasks: [{
+		uid: "37e0adf7",
+		type: "checkmark"
+	}]
+}

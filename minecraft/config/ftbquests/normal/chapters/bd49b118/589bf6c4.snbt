@@ -1,0 +1,13 @@
+{
+	title: "Resurrect one of the dragons",
+	icon: "minecraft:skull 1 5",
+	x: 3.5d,
+	y: 3.5d,
+	text: [
+		"Resurrect one of the dragons"
+	],
+	tasks: [{
+		uid: "f6ccf549",
+		type: "checkmark"
+	}]
+}

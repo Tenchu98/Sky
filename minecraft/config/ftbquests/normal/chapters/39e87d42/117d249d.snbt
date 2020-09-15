@@ -1,0 +1,13 @@
+{
+	title: "Build Ender IO Farming Stations with Octadic Capacitors which automate 20 different crops",
+	icon: "enderio:block_farm_station",
+	x: 5.0d,
+	y: 2.0d,
+	text: [
+		"Build Ender IO Farming Stations with Octadic Capacitors which automate 20 different crops"
+	],
+	tasks: [{
+		uid: "1fb8f22b",
+		type: "checkmark"
+	}]
+}

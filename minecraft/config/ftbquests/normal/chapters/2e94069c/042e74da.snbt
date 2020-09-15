@@ -1,0 +1,13 @@
+{
+	title: "Create a ME system to store your things",
+	icon: "appliedenergistics2:controller",
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"Create a ME system to store your things"
+	],
+	tasks: [{
+		uid: "31196f82",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Use Growth Crystals or Growth Accelerators to speed up crop growth",
+	icon: "tp:growth_block",
+	x: 5.0d,
+	y: 0.5d,
+	text: [
+		"Use Growth Crystals or Growth Accelerators to speed up crop growth"
+	],
+	tasks: [{
+		uid: "18cdcb79",
+		type: "checkmark"
+	}]
+}

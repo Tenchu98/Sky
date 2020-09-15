@@ -1,0 +1,13 @@
+{
+	title: "Sift Gravel, Sand, and Dust in a Sieve",
+	icon: "minecraft:sand",
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"Sift Gravel, Sand, and Dust in a Sieve"
+	],
+	tasks: [{
+		uid: "814aa6ee",
+		type: "checkmark"
+	}]
+}

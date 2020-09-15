@@ -1,0 +1,18 @@
+{
+	title: "Make a Watering Can",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "extrautils2:wateringcan"
+	},
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"Make a Watering Can"
+	],
+	tasks: [{
+		uid: "b7ef6d57",
+		type: "checkmark"
+	}]
+}

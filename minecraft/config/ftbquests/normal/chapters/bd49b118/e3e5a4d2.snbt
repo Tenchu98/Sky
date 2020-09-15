@@ -1,0 +1,13 @@
+{
+	title: "Make a charm of dislocation",
+	icon: "draconicevolution:dislocator",
+	x: 2.0d,
+	y: 3.5d,
+	text: [
+		"Make a charm of dislocation"
+	],
+	tasks: [{
+		uid: "aeebe3b3",
+		type: "checkmark"
+	}]
+}

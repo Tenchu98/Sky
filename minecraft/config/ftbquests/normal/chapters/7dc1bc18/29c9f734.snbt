@@ -1,0 +1,18 @@
+{
+	title: "Use a Crook on leaves to get saplings and a Silkworm",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "exnihilocreatio:crook_wood"
+	},
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"Use a Crook on leaves to get saplings and a Silkworm"
+	],
+	tasks: [{
+		uid: "15fd28e9",
+		type: "checkmark"
+	}]
+}

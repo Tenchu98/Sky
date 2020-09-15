@@ -1,0 +1,13 @@
+{
+	title: "Get 20 different Chickens and automate resource collection",
+	icon: "chickens:colored_egg 1 15",
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"Get 20 different Chickens and automate resource collection"
+	],
+	tasks: [{
+		uid: "07c18770",
+		type: "checkmark"
+	}]
+}

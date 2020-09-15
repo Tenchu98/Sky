@@ -1,0 +1,18 @@
+{
+	title: "Craft a Master Infustion Crystal",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "mysticalagriculture:master_infusion_crystal"
+	},
+	x: 0.5d,
+	y: 2.0d,
+	text: [
+		"Craft a Master Infustion Crystal"
+	],
+	tasks: [{
+		uid: "c5942f21",
+		type: "checkmark"
+	}]
+}

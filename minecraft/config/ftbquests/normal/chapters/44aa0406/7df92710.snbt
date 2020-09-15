@@ -1,0 +1,13 @@
+{
+	title: "Collect Dragons Breath",
+	icon: "minecraft:dragon_breath",
+	x: 5.0d,
+	y: 2.0d,
+	text: [
+		"Collect Dragons Breath"
+	],
+	tasks: [{
+		uid: "1cabdb32",
+		type: "checkmark"
+	}]
+}

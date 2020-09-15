@@ -1,0 +1,21 @@
+{
+	title: "Draconic Staff of Power",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 27,
+				Items: []
+			}
+		},
+		id: "draconicevolution:draconic_staff_of_power"
+	},
+	x: 5.0d,
+	y: 2.0d,
+	text: [
+		"Draconic Staff of Power"
+	],
+	tasks: [{
+		uid: "9d0a9a1a",
+		type: "checkmark"
+	}]
+}

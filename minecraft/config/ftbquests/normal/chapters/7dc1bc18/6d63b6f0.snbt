@@ -1,0 +1,13 @@
+{
+	title: "Infest leaves with a Silkworm",
+	icon: "exnihilocreatio:item_material 1 2",
+	x: 5.0d,
+	y: 0.5d,
+	text: [
+		"Infest leaves with a Silkworm"
+	],
+	tasks: [{
+		uid: "07ebc3bb",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Create a turbine from the Extreme Reactors Mod",
+	icon: "bigreactors:turbinecontroller",
+	x: 5.0d,
+	y: 0.5d,
+	text: [
+		"Create a turbine from the Extreme Reactors Mod"
+	],
+	tasks: [{
+		uid: "f7727af1",
+		type: "checkmark"
+	}]
+}

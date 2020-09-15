@@ -1,0 +1,13 @@
+{
+	title: "Craft a Sieve and a string mesh",
+	icon: "exnihilocreatio:block_sieve",
+	x: 8.0d,
+	y: 0.5d,
+	text: [
+		"Craft a Sieve and a string mesh"
+	],
+	tasks: [{
+		uid: "8231b6eb",
+		type: "checkmark"
+	}]
+}

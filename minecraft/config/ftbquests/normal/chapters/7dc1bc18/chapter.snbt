@@ -1,0 +1,15 @@
+{
+	title: "Wood Age",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "exnihilocreatio:crook_wood"
+	},
+	description: [
+		"A new age dawns before you! You don't have anything to work with but this tree, so let's make the most of it!"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

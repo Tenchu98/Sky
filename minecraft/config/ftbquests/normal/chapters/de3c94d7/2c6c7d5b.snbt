@@ -1,0 +1,13 @@
+{
+	title: "Capture a Cow in a Jar",
+	icon: "cookingforblockheads:cow_jar",
+	x: 2.0d,
+	y: 0.5d,
+	text: [
+		"Capture a Cow in a Jar"
+	],
+	tasks: [{
+		uid: "eb4fe5c7",
+		type: "checkmark"
+	}]
+}

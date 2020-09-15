@@ -1,0 +1,13 @@
+{
+	title: "Craft the Rainbow Generator and use it to produce power",
+	icon: "extrautils2:rainbowgenerator",
+	x: 5.0d,
+	y: 0.5d,
+	text: [
+		"Craft the Rainbow Generator and use it to produce power"
+	],
+	tasks: [{
+		uid: "a8c40fce",
+		type: "checkmark"
+	}]
+}

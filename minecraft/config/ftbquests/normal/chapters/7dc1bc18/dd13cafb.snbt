@@ -1,0 +1,13 @@
+{
+	title: "Use a Crook on Infested Leaves to get string",
+	icon: "minecraft:string",
+	x: 6.5d,
+	y: 0.5d,
+	text: [
+		"Use a Crook on Infested Leaves to get string"
+	],
+	tasks: [{
+		uid: "670ab345",
+		type: "checkmark"
+	}]
+}

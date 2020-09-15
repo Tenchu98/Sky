@@ -1,0 +1,13 @@
+{
+	title: "Use the Rudimentary Snare to obtain a Demonic Will",
+	icon: "bloodmagic:soul_snare",
+	x: 5.0d,
+	y: 0.5d,
+	text: [
+		"Use the Rudimentary Snare to obtain a Demonic Will"
+	],
+	tasks: [{
+		uid: "b42d4a34",
+		type: "checkmark"
+	}]
+}

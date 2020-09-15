@@ -1,0 +1,13 @@
+{
+	title: "Draconic Helm",
+	icon: "draconicevolution:draconic_helm",
+	x: 2.0d,
+	y: 0.5d,
+	text: [
+		"Draconic Helm"
+	],
+	tasks: [{
+		uid: "be45afe7",
+		type: "checkmark"
+	}]
+}

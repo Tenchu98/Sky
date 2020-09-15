@@ -1,0 +1,21 @@
+{
+	title: "Craft the Draconic Tools",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 18,
+				Items: []
+			}
+		},
+		id: "draconicevolution:draconic_pick"
+	},
+	x: 8.0d,
+	y: 0.5d,
+	text: [
+		"Craft the Draconic Tools"
+	],
+	tasks: [{
+		uid: "d61ec15e",
+		type: "checkmark"
+	}]
+}

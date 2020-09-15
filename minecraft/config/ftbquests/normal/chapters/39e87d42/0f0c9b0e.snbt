@@ -1,0 +1,13 @@
+{
+	title: "Craft a single Octuple Compressed Cobblestone Block",
+	icon: "extrautils2:compressedcobblestone 1 7",
+	x: 6.5d,
+	y: 2.0d,
+	text: [
+		"Craft a single Octuple Compressed Cobblestone Block"
+	],
+	tasks: [{
+		uid: "5fd0ed5f",
+		type: "checkmark"
+	}]
+}

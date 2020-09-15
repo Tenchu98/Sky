@@ -1,0 +1,13 @@
+{
+	title: "Craft and Place a Blood Altar",
+	icon: "bloodmagic:altar",
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"Craft and Place a Blood Altar"
+	],
+	tasks: [{
+		uid: "a4ee4695",
+		type: "checkmark"
+	}]
+}

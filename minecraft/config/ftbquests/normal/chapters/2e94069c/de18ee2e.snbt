@@ -1,0 +1,13 @@
+{
+	title: "Use Energy Conduits to power several machines at once",
+	icon: "enderio:item_power_conduit",
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Use Energy Conduits to power several machines at once"
+	],
+	tasks: [{
+		uid: "e2f40b03",
+		type: "checkmark"
+	}]
+}

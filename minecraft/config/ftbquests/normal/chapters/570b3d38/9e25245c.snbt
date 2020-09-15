@@ -1,0 +1,18 @@
+{
+	title: "Craft a Lexica Botania",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "botania:lexicon"
+	},
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"Craft a Lexica Botania"
+	],
+	tasks: [{
+		uid: "6f879dce",
+		type: "checkmark"
+	}]
+}

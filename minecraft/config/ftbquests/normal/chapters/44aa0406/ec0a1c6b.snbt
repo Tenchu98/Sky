@@ -1,0 +1,13 @@
+{
+	title: "Kill the Ender Dragon",
+	icon: "minecraft:skull 1 5",
+	x: 3.5d,
+	y: 2.0d,
+	text: [
+		"Kill the Ender Dragon"
+	],
+	tasks: [{
+		uid: "2ae2e220",
+		type: "checkmark"
+	}]
+}

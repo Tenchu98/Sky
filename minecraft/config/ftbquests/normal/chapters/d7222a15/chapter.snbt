@@ -1,0 +1,10 @@
+{
+	title: "Mystical Farming",
+	icon: "mysticalagriculture:iron_seeds",
+	description: [
+		"Resources are finite, but crops will grow whatever you need."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

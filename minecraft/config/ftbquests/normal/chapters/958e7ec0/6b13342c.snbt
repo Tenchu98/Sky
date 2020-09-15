@@ -1,0 +1,13 @@
+{
+	title: "Make Obsidian with a Stone Barrel",
+	icon: "minecraft:obsidian",
+	x: 5.0d,
+	y: 0.5d,
+	text: [
+		"Make Obsidian with a Stone Barrel"
+	],
+	tasks: [{
+		uid: "55218efb",
+		type: "checkmark"
+	}]
+}

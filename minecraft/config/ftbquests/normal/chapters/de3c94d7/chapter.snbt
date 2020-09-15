@@ -1,0 +1,15 @@
+{
+	title: "Farming Age",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "extrautils2:wateringcan"
+	},
+	description: [
+		"Time to fight back against this cold, empty void, and grow some things!"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

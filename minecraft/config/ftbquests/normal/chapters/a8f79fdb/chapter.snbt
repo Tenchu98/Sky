@@ -1,0 +1,15 @@
+{
+	title: "The End",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "minecraft:cake"
+	},
+	description: [
+		"Finish all quests."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

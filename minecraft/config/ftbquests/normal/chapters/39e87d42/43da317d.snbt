@@ -1,0 +1,19 @@
+{
+	title: "Produce 1 billion RF/t",
+	icon: {
+		id: "enderio:block_cap_bank",
+		tag: {
+			"enderio:energy": 1000000
+		},
+		Damage: 1s
+	},
+	x: 0.5d,
+	y: 2.0d,
+	text: [
+		"Produce 1 billion RF/t"
+	],
+	tasks: [{
+		uid: "b98ce6b4",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	title: "Age of Dragons",
+	icon: "draconicevolution:draconic_chest",
+	description: [
+		"You will be tested. It takes a legend to conquer legends."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

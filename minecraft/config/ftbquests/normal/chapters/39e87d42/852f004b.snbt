@@ -1,0 +1,13 @@
+{
+	title: "Use Diamond blocks to cool a max size reactor",
+	icon: "minecraft:diamond_block",
+	x: 3.5d,
+	y: 2.0d,
+	text: [
+		"Use Diamond blocks to cool a max size reactor"
+	],
+	tasks: [{
+		uid: "efaf1ba0",
+		type: "checkmark"
+	}]
+}

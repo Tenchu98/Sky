@@ -1,0 +1,13 @@
+{
+	title: "Create an Actively cooled reactor from the Extreme Reactors Mod",
+	icon: "bigreactors:reactorcoolantport",
+	x: 2.0d,
+	y: 0.5d,
+	text: [
+		"Create an Actively cooled reactor from the Extreme Reactors Mod"
+	],
+	tasks: [{
+		uid: "3f08ec48",
+		type: "checkmark"
+	}]
+}

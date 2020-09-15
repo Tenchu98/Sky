@@ -1,0 +1,13 @@
+{
+	title: "Use Nesting Pens to automate resource collection from Chickens",
+	icon: "hatchery:pen",
+	x: 5.0d,
+	y: 2.0d,
+	text: [
+		"Use Nesting Pens to automate resource collection from Chickens"
+	],
+	tasks: [{
+		uid: "1d7fc49e",
+		type: "checkmark"
+	}]
+}

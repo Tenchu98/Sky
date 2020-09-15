@@ -1,0 +1,13 @@
+{
+	title: "Build a Cobblestone generator",
+	icon: "minecraft:cobblestone",
+	x: 9.5d,
+	y: 2.0d,
+	text: [
+		"Build a Cobblestone generator"
+	],
+	tasks: [{
+		uid: "47c666f6",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Automate Loot Bag Creation, Opening, and Compression",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "lootbags:itemlootbag",
+		Damage: 11s
+	},
+	x: 5.0d,
+	y: 0.5d,
+	text: [
+		"Automate Loot Bag Creation, Opening, and Compression"
+	],
+	tasks: [{
+		uid: "d5290ab9",
+		type: "checkmark"
+	}]
+}

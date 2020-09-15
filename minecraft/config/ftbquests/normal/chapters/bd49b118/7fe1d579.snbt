@@ -1,0 +1,13 @@
+{
+	title: "Craft the Draconic Armor Set",
+	icon: "draconicevolution:draconic_chest",
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"Craft the Draconic Armor Set"
+	],
+	tasks: [{
+		uid: "80c0407f",
+		type: "checkmark"
+	}]
+}

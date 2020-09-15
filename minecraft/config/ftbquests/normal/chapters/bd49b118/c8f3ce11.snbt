@@ -1,0 +1,13 @@
+{
+	title: "Create a Draconic Level Fusion Crafter",
+	icon: "draconicevolution:crafting_injector 1 2",
+	x: 6.5d,
+	y: 3.5d,
+	text: [
+		"Create a Draconic Level Fusion Crafter"
+	],
+	tasks: [{
+		uid: "b7c42e11",
+		type: "checkmark"
+	}]
+}

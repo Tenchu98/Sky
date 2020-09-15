@@ -1,0 +1,13 @@
+{
+	title: "Use an Angel Block and your ability to fly to start a new island somewhere else",
+	icon: "opencomputers:upgrade",
+	x: 2.0d,
+	y: 0.5d,
+	text: [
+		"Use an Angel Block and your ability to fly to start a new island somewhere else"
+	],
+	tasks: [{
+		uid: "9c66df46",
+		type: "checkmark"
+	}]
+}

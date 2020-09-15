@@ -1,0 +1,21 @@
+{
+	title: "Craft the Bound Blade, Pickaxe, Axe, and Shovel",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "bloodmagic:bound_sword",
+		tag: {
+			Unbreakable: 1b
+		}
+	},
+	x: 0.5d,
+	y: 2.0d,
+	text: [
+		"Craft the Bound Blade, Pickaxe, Axe, and Shovel"
+	],
+	tasks: [{
+		uid: "4d8db34a",
+		type: "checkmark"
+	}]
+}

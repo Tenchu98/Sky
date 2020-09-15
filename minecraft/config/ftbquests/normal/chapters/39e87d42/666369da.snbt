@@ -1,0 +1,13 @@
+{
+	title: "Use the Terrain Scanner and regenerate 5 different biome chunks",
+	icon: "scanner:terrain_scanner",
+	x: 6.5d,
+	y: 0.5d,
+	text: [
+		"Use the Terrain Scanner and regenerate 5 different biome chunks"
+	],
+	tasks: [{
+		uid: "ef933510",
+		type: "checkmark"
+	}]
+}

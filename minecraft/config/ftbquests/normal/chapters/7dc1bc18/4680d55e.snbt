@@ -1,0 +1,13 @@
+{
+	title: "Craft Cobblestone from the Small Stones that drop from sifting Dirt",
+	icon: "exnihilocreatio:item_pebble",
+	x: 11.0d,
+	y: 0.5d,
+	text: [
+		"Craft Cobblestone from the Small Stones that drop from sifting Dirt"
+	],
+	tasks: [{
+		uid: "3a4b690d",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Travel to the bottom of the Nether using a boat",
+	icon: "minecraft:boat",
+	x: 5.0d,
+	y: 0.5d,
+	text: [
+		"Travel to the bottom of the Nether using a boat"
+	],
+	tasks: [{
+		uid: "67a6f8ad",
+		type: "checkmark"
+	}]
+}

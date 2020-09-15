@@ -1,0 +1,13 @@
+{
+	title: "Build a second layer to your island, below the level you started from",
+	icon: "minecraft:ladder",
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Build a second layer to your island, below the level you started from"
+	],
+	tasks: [{
+		uid: "25c7da45",
+		type: "checkmark"
+	}]
+}

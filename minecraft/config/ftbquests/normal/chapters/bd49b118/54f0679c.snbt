@@ -1,0 +1,21 @@
+{
+	title: "Draconic Shovel",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 18,
+				Items: []
+			}
+		},
+		id: "draconicevolution:draconic_shovel"
+	},
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"Draconic Shovel"
+	],
+	tasks: [{
+		uid: "3a6b5ee9",
+		type: "checkmark"
+	}]
+}

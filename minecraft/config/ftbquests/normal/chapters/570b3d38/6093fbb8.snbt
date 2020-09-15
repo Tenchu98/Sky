@@ -1,0 +1,13 @@
+{
+	title: "Create 64 Livingwood and 64 Livingrock with a Pure Daisy",
+	icon: "botania:specialflower",
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Create 64 Livingwood and 64 Livingrock with a Pure Daisy"
+	],
+	tasks: [{
+		uid: "f3adaf44",
+		type: "checkmark"
+	}]
+}

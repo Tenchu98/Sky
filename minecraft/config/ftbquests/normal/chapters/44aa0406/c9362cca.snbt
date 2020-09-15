@@ -1,0 +1,13 @@
+{
+	title: "Travel to The Beneath Dimension",
+	icon: "beneath:teleporterbeneath",
+	x: 0.5d,
+	y: 2.0d,
+	text: [
+		"Travel to The Beneath Dimension"
+	],
+	tasks: [{
+		uid: "b20ff428",
+		type: "checkmark"
+	}]
+}

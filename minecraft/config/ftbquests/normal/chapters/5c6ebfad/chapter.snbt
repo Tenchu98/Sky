@@ -1,0 +1,10 @@
+{
+	title: "Age of Power",
+	icon: "bigreactors:reactorcontroller",
+	description: [
+		"Once you start on this path, how much is enough?"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

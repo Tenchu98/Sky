@@ -1,0 +1,13 @@
+{
+	title: "Create an unbreakable Tinkers' Tool",
+	icon: "tconstruct:large_plate",
+	x: 0.5d,
+	y: 2.0d,
+	text: [
+		"Create an unbreakable Tinkers' Tool"
+	],
+	tasks: [{
+		uid: "b542ee74",
+		type: "checkmark"
+	}]
+}

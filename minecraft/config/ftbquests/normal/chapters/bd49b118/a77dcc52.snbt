@@ -1,0 +1,13 @@
+{
+	title: "Draconic Chestplate",
+	icon: "draconicevolution:draconic_chest",
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Draconic Chestplate"
+	],
+	tasks: [{
+		uid: "d0f4fbac",
+		type: "checkmark"
+	}]
+}

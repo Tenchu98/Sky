@@ -1,0 +1,13 @@
+{
+	title: "Craft and power a generator of some kind",
+	icon: "enderio:block_simple_stirling_generator",
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"Craft and power a generator of some kind"
+	],
+	tasks: [{
+		uid: "c0154f25",
+		type: "checkmark"
+	}]
+}

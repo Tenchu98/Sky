@@ -1,0 +1,13 @@
+{
+	title: "Hatch a Dragon Egg and train it",
+	icon: "minecraft:dragon_egg",
+	x: 8.0d,
+	y: 2.0d,
+	text: [
+		"Hatch a Dragon Egg and train it"
+	],
+	tasks: [{
+		uid: "32f4ba0c",
+		type: "checkmark"
+	}]
+}

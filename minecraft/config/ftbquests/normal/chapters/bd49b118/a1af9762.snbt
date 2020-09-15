@@ -1,0 +1,13 @@
+{
+	title: "Build a tier 6 energy core",
+	icon: "draconicevolution:energy_storage_core",
+	x: 0.5d,
+	y: 3.5d,
+	text: [
+		"Build a tier 6 energy core"
+	],
+	tasks: [{
+		uid: "03f04cae",
+		type: "checkmark"
+	}]
+}

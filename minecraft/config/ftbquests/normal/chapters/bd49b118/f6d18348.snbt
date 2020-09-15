@@ -1,0 +1,13 @@
+{
+	title: "Draconic Hoe",
+	icon: "draconicevolution:draconic_hoe",
+	x: 3.5d,
+	y: 2.0d,
+	text: [
+		"Draconic Hoe"
+	],
+	tasks: [{
+		uid: "47686b20",
+		type: "checkmark"
+	}]
+}

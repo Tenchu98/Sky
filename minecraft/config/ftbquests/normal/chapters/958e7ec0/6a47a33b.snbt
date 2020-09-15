@@ -1,0 +1,16 @@
+{
+	title: "Build Bridges for peace",
+	x: 0.5d,
+	y: 3.5d,
+	description: "Bridges can keep you safe while crossing between islands",
+	text: [
+		"Make use of bridges for safe passage."
+	],
+	tasks: [{
+		uid: "fdf02635",
+		type: "item",
+		items: [{
+			item: "mcwbridges:stone_brick_bridge"
+		}]
+	}]
+}

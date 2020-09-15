@@ -1,0 +1,10 @@
+{
+	title: "Age of Machines",
+	icon: "enderio:block_simple_stirling_generator",
+	description: [
+		"Your skill with technology is growing. Automation is key."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

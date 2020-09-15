@@ -1,0 +1,10 @@
+{
+	title: "Age of Insanity",
+	icon: "extrautils2:passivegenerator 1 8",
+	description: [
+		"At last you've got your production going and your machines are hard at work. It's time to REALLY have some fun!"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

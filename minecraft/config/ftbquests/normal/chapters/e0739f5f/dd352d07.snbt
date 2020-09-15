@@ -1,0 +1,18 @@
+{
+	title: "Craft a melee Tinkers' Weapon that does 20 damage or more",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "tconstruct:broadsword"
+	},
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"Craft a melee Tinkers' Weapon that does 20 damage or more"
+	],
+	tasks: [{
+		uid: "c7ea06bf",
+		type: "checkmark"
+	}]
+}

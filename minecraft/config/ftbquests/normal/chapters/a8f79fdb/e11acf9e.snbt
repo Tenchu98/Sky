@@ -1,0 +1,23 @@
+{
+	title: "You have completed 100 percent of the achievements listed. What achievements can you come up with?",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "minecraft:cake"
+	},
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"You have completed 100 percent of the achievements listed. What achievements can you come up with?"
+	],
+	tasks: [{
+		uid: "84bf69ca",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "ff0375d8",
+		type: "item",
+		item: "mysticalagradditions:stuff 1 69"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Fill a Quantum Storage Unit with anything",
+	icon: "quantumstorage:quantum_storage_unit",
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Fill a Quantum Storage Unit with anything"
+	],
+	tasks: [{
+		uid: "9d797541",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Use a Diamond Chest Transporter to bring home 5 Blaze Spawners",
+	icon: "minecraft:blaze_rod",
+	x: 6.5d,
+	y: 0.5d,
+	text: [
+		"Use a Diamond Chest Transporter to bring home 5 Blaze Spawners"
+	],
+	tasks: [{
+		uid: "a737ee5a",
+		type: "checkmark"
+	}]
+}

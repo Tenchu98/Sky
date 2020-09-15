@@ -1,0 +1,13 @@
+{
+	title: "Build a Solar Array Tier 4 Multiblock Structure",
+	icon: "environmentaltech:solar_cont_4",
+	x: 0.5d,
+	y: 2.0d,
+	text: [
+		"Build a Solar Array Tier 4 Multiblock Structure"
+	],
+	tasks: [{
+		uid: "52d617ca",
+		type: "checkmark"
+	}]
+}

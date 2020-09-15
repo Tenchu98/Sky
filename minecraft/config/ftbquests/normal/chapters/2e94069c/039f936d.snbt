@@ -1,0 +1,13 @@
+{
+	title: "Process sieve materials to ingots",
+	icon: "minecraft:gold_ingot",
+	x: 5.0d,
+	y: 2.0d,
+	text: [
+		"Process sieve materials to ingots"
+	],
+	tasks: [{
+		uid: "084d14dc",
+		type: "checkmark"
+	}]
+}

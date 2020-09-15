@@ -1,0 +1,13 @@
+{
+	title: "Create a Tier 5 Blood Altar",
+	icon: "bloodmagic:altar",
+	x: 5.0d,
+	y: 2.0d,
+	text: [
+		"Create a Tier 5 Blood Altar"
+	],
+	tasks: [{
+		uid: "b83a00d7",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Craft an Inferium Seed",
+	icon: "mysticalagriculture:tier1_inferium_seeds",
+	x: 5.0d,
+	y: 0.5d,
+	text: [
+		"Craft an Inferium Seed"
+	],
+	tasks: [{
+		uid: "9f89a4d5",
+		type: "checkmark"
+	}]
+}

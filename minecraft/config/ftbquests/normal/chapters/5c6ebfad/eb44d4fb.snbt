@@ -1,0 +1,21 @@
+{
+	title: "Produce 10,000 RF/t",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "actuallyadditions:item_battery_double",
+		tag: {
+			Energy: 0
+		}
+	},
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"Produce 10,000 RF/t"
+	],
+	tasks: [{
+		uid: "549a010d",
+		type: "checkmark"
+	}]
+}

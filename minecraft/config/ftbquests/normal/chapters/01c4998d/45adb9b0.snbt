@@ -1,0 +1,19 @@
+{
+	title: "Use the Sigil of the Phantom Bridge to walk over the void",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "bloodmagic:sigil_phantom_bridge",
+		tag: {}
+	},
+	x: 6.5d,
+	y: 0.5d,
+	text: [
+		"Use the Sigil of the Phantom Bridge to walk over the void"
+	],
+	tasks: [{
+		uid: "af3a8965",
+		type: "checkmark"
+	}]
+}

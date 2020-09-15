@@ -1,0 +1,13 @@
+{
+	title: "Craft a Petal Apothecary",
+	icon: "botania:altar",
+	x: 2.0d,
+	y: 0.5d,
+	text: [
+		"Craft a Petal Apothecary"
+	],
+	tasks: [{
+		uid: "62d5b7ac",
+		type: "checkmark"
+	}]
+}

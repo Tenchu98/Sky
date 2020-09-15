@@ -1,0 +1,13 @@
+{
+	title: "Craft and cook a Crucible",
+	icon: "exnihilocreatio:block_crucible_wood",
+	x: 6.5d,
+	y: 2.0d,
+	text: [
+		"Craft and cook a Crucible"
+	],
+	tasks: [{
+		uid: "2ea5e824",
+		type: "checkmark"
+	}]
+}

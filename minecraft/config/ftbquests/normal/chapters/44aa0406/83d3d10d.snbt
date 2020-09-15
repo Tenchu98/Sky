@@ -1,0 +1,13 @@
+{
+	title: "Travel to the End",
+	icon: "exnihilocreatio:block_end_cake",
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"Travel to the End"
+	],
+	tasks: [{
+		uid: "92a5502a",
+		type: "checkmark"
+	}]
+}

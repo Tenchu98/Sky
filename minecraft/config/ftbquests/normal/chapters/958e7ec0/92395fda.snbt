@@ -1,0 +1,13 @@
+{
+	title: "Make a dark room 25 blocks away from your base for spawning mobs and obtaining loot",
+	icon: "minecraft:skull 1 4",
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"Make a dark room 25 blocks away from your base for spawning mobs and obtaining loot"
+	],
+	tasks: [{
+		uid: "40511fba",
+		type: "checkmark"
+	}]
+}

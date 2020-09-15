@@ -1,0 +1,10 @@
+{
+	title: "Green Energy",
+	icon: "environmentaltech:void_res_miner_cont_1",
+	description: [
+		"Free, renewable energy!"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,13 @@
+{
+	title: "Draconic Leggings",
+	icon: "draconicevolution:draconic_legs",
+	x: 5.0d,
+	y: 0.5d,
+	text: [
+		"Draconic Leggings"
+	],
+	tasks: [{
+		uid: "24d33a55",
+		type: "checkmark"
+	}]
+}

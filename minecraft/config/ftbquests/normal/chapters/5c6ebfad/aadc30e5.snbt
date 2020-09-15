@@ -1,0 +1,13 @@
+{
+	title: "Create the maximum size reactor",
+	icon: "bigreactors:reactorcasing",
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Create the maximum size reactor"
+	],
+	tasks: [{
+		uid: "2b0f7ebc",
+		type: "checkmark"
+	}]
+}

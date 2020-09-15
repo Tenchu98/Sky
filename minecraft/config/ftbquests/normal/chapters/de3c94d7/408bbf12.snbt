@@ -1,0 +1,18 @@
+{
+	title: "Prepare a farming space for several crops",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "minecraft:iron_hoe"
+	},
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Prepare a farming space for several crops"
+	],
+	tasks: [{
+		uid: "18e017ae",
+		type: "checkmark"
+	}]
+}

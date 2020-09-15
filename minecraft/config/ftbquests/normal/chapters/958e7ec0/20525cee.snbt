@@ -1,0 +1,13 @@
+{
+	title: "Upgrade an existing Tinkers' tool with a metal part",
+	icon: "tconstruct:pick_head",
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"Upgrade an existing Tinkers' tool with a metal part"
+	],
+	tasks: [{
+		uid: "181df23f",
+		type: "checkmark"
+	}]
+}

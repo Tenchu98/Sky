@@ -1,0 +1,18 @@
+{
+	title: "Fly",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "extrautils2:chickenring"
+	},
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"Fly"
+	],
+	tasks: [{
+		uid: "cc094a26",
+		type: "checkmark"
+	}]
+}

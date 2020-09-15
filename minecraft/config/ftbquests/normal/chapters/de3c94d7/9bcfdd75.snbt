@@ -1,0 +1,13 @@
+{
+	title: "Prove to the world that Sand grows Sugar Cane faster than dirt with a Block of Snad",
+	icon: "snad:snad",
+	x: 3.5d,
+	y: 2.0d,
+	text: [
+		"Prove to the world that Sand grows Sugar Cane faster than dirt with a Block of Snad"
+	],
+	tasks: [{
+		uid: "315185b0",
+		type: "checkmark"
+	}]
+}

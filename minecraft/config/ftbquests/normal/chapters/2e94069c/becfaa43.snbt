@@ -1,0 +1,13 @@
+{
+	title: "Automate storage of ore pieces/chunks from an Automatic Sieve",
+	icon: "exnihilocreatio:item_ore_gold 1 1",
+	x: 3.5d,
+	y: 2.0d,
+	text: [
+		"Automate storage of ore pieces/chunks from an Automatic Sieve"
+	],
+	tasks: [{
+		uid: "ab9fd581",
+		type: "checkmark"
+	}]
+}

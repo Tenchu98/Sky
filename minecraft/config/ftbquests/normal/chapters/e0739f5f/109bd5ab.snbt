@@ -1,0 +1,72 @@
+{
+	title: "Build any melee weapon that does 90 or more damage",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "tconstruct:broadsword",
+		tag: {
+			StatsOriginal: {
+				AttackSpeedMultiplier: 1.0f,
+				MiningSpeed: 22.25f,
+				FreeModifiers: 3,
+				Durability: 8862,
+				HarvestLevel: 4,
+				Attack: 16.029999f
+			},
+			Stats: {
+				AttackSpeedMultiplier: 1.0f,
+				MiningSpeed: 22.25f,
+				FreeModifiers: 3,
+				Durability: 8862,
+				HarvestLevel: 4,
+				Attack: 16.029999f
+			},
+			Special: {
+				Categories: [
+					"tool",
+					"weapon"
+				]
+			},
+			TinkerData: {
+				Materials: [
+					"ma.supremium",
+					"ma.supremium",
+					"ma.supremium"
+				],
+				Modifiers: [
+					"toolleveling"
+				]
+			},
+			Modifiers: [{
+				identifier: "prosperous",
+				color: -3932160,
+				level: 1
+			},
+			{
+				identifier: "duritos",
+				color: -3932160,
+				level: 1
+			},
+			{
+				identifier: "toolleveling",
+				color: 16777215,
+				level: 1
+			}],
+			Traits: [
+				"prosperous",
+				"duritos",
+				"toolleveling"
+			]
+		}
+	},
+	x: 3.5d,
+	y: 2.0d,
+	text: [
+		"Build any melee weapon that does 90 or more damage"
+	],
+	tasks: [{
+		uid: "824a6880",
+		type: "checkmark"
+	}]
+}

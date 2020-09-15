@@ -1,0 +1,19 @@
+{
+	title: "Craft the highest tier Unbreakable Builder's Wand",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "betterbuilderswands:wandunbreakable",
+		Damage: 14s
+	},
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Craft the highest tier Unbreakable Builder's Wand"
+	],
+	tasks: [{
+		uid: "b75083e1",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Complete the Ritual of Gaia II",
+	icon: "botania:gaiahead",
+	x: 2.0d,
+	y: 0.5d,
+	text: [
+		"Complete the Ritual of Gaia II"
+	],
+	tasks: [{
+		uid: "ab132cf0",
+		type: "checkmark"
+	}]
+}

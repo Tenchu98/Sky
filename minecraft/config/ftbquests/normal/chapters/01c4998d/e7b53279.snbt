@@ -1,0 +1,21 @@
+{
+	title: "Automate LP Collection",
+	icon: {
+		id: "openblocks:tank",
+		tag: {
+			tank: {
+				FluidName: "lifeessence",
+				Amount: 16000
+			}
+		}
+	},
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Automate LP Collection"
+	],
+	tasks: [{
+		uid: "dc03a675",
+		type: "checkmark"
+	}]
+}

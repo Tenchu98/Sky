@@ -1,0 +1,13 @@
+{
+	title: "Craft a Mana Pool and a Mana Spreader",
+	icon: "botania:pool",
+	x: 0.5d,
+	y: 2.0d,
+	text: [
+		"Craft a Mana Pool and a Mana Spreader"
+	],
+	tasks: [{
+		uid: "3e814b57",
+		type: "checkmark"
+	}]
+}

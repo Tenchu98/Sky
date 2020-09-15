@@ -1,0 +1,13 @@
+{
+	title: "Create near infinite Grid Power with an Extra Utilities Dragon Egg Mill",
+	icon: "extrautils2:passivegenerator 1 8",
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"Create near infinite Grid Power with an Extra Utilities Dragon Egg Mill"
+	],
+	tasks: [{
+		uid: "d11a5209",
+		type: "checkmark"
+	}]
+}

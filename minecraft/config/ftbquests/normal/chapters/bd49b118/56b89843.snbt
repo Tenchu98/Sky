@@ -1,0 +1,21 @@
+{
+	title: "Draconic Axe",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 18,
+				Items: []
+			}
+		},
+		id: "draconicevolution:draconic_axe"
+	},
+	x: 0.5d,
+	y: 2.0d,
+	text: [
+		"Draconic Axe"
+	],
+	tasks: [{
+		uid: "f9122552",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Make a Tinkers' Construct smeltery for processing ore",
+	icon: "tconstruct:smeltery_controller",
+	x: 0.5d,
+	y: 2.0d,
+	text: [
+		"Make a Tinkers' Construct smeltery for processing ore"
+	],
+	tasks: [{
+		uid: "eba5edfb",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Jump between 2 tamed dragons while in midair (while both are flying)",
+	icon: "mysticalagriculture:charm 1 10",
+	x: 8.0d,
+	y: 3.5d,
+	text: [
+		"Jump between 2 tamed dragons while in midair (while both are flying)"
+	],
+	tasks: [{
+		uid: "e6d35f36",
+		type: "checkmark"
+	}]
+}

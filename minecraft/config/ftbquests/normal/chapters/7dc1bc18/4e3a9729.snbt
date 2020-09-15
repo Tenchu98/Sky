@@ -1,0 +1,18 @@
+{
+	title: "Collect rain water in an Oak Barrel or melt saplings in a Wooden Crucible",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "minecraft:water_bucket"
+	},
+	x: 9.5d,
+	y: 0.5d,
+	text: [
+		"Collect rain water in an Oak Barrel or melt saplings in a Wooden Crucible"
+	],
+	tasks: [{
+		uid: "a210020e",
+		type: "checkmark"
+	}]
+}

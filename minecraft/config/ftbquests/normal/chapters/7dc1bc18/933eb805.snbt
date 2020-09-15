@@ -1,0 +1,13 @@
+{
+	title: "Make Clay by putting Dust into a water filled Barrel",
+	icon: "minecraft:clay_ball",
+	x: 5.0d,
+	y: 2.0d,
+	text: [
+		"Make Clay by putting Dust into a water filled Barrel"
+	],
+	tasks: [{
+		uid: "19d815f5",
+		type: "checkmark"
+	}]
+}

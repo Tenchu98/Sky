@@ -1,0 +1,13 @@
+{
+	title: "Kill a chaos dragon",
+	icon: "draconicevolution:chaos_shard 1 2",
+	x: 8.0d,
+	y: 2.0d,
+	text: [
+		"Kill a chaos dragon"
+	],
+	tasks: [{
+		uid: "64a5339d",
+		type: "checkmark"
+	}]
+}
